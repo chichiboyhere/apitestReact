@@ -1,0 +1,9 @@
+||  
+
+venv\Scripts\activate
+
+
+
+https://www.udemy.com/course/react-django-full-stack/learn/lecture/20217256#overview
+
+--legacy-peer-deps

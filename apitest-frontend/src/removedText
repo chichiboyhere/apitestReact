@@ -1,0 +1,54 @@
+ <h2>Qu 2: {questions[1].text}</h2>
+          <h3>Ans:  {questions[1].answer}</h3>
+          <h2>Qu 3: {questions[2].text}</h2>
+          <h3>Ans:  {questions[2].answer}</h3>
+          <h2>Qu 4: {questions[3].text}</h2>
+          <h3>Ans:  {questions[3].answer}</h3>
+          <h2>Qu 5: {questions[4].text}</h2>
+          <h3>Ans:  {questions[4].answer}</h3>
+
+
+
+          
+  {/* <h2>Qu 1: {questions[0].text}</h2>
+  <h3>Ans:  {questions[0].answer}</h3>
+  <h2>Qu 2: {questions[1].text}</h2>
+  <h3>Ans:  {questions[1].answer}</h3>
+  <h2>Qu 3: {questions[2].text}</h2>
+  <h3>Ans:  {questions[2].answer}</h3>
+  <h2>Qu 4: {questions[3].text}</h2>
+  <h3>Ans:  {questions[3].answer}</h3>
+  <h2>Qu 5: {questions[4].text}</h2>
+  <h3>Ans:  {questions[4].answer}</h3>
+  <h2>Qu 6: {questions[5].text}</h2>
+  <h3>Ans:  {questions[5].answer}</h3>
+  <h2>Qu 7: {questions[6].text}</h2>
+  <h3>Ans:  {questions[6].answer}</h3>
+  <h2>Qu 8: {questions[7].text}</h2>
+  <h3>Ans:  {questions[7].answer}</h3>
+  <h2>Qu 9: {questions[8].text}</h2>
+  <h3>Ans:  {questions[8].answer}</h3>
+  <h2>Qu 10: {questions[9].text}</h2>
+  <h3>Ans:  {questions[9].answer}</h3>
+  <h2>Qu 11: {questions[10].text}</h2>
+  <h3>Ans:  {questions[10].answer}</h3>
+  <h2>Qu 12: {questions[11].text}</h2>
+  <h3>Ans:  {questions[11].answer}</h3>
+  <h2>Qu 13: {questions[12].text}</h2>
+  <h3>Ans:  {questions[12].answer}</h3>
+  <h2>Qu 14: {questions[13].text}</h2>
+  <h3>Ans:  {questions[13].answer}</h3>
+  <h2>Qu 15: {questions[14].text}</h2>
+  <h3>Ans:  {questions[14].answer}</h3>
+  <h2>Qu 16: {questions[15].text}</h2>
+  <h3>Ans:  {questions[15].answer}</h3>
+  <h2>Qu 17: {questions[16].text}</h2>
+  <h3>Ans:  {questions[16].answer}</h3>
+  <h2>Qu 18: {questions[17].text}</h2>
+  <h3>Ans:  {questions[17].answer}</h3>
+  <h2>Qu 19: {questions[18].text}</h2>
+  <h3>Ans:  {questions[18].answer}</h3>
+  <h2>Qu 20: {questions[19].text}</h2>
+  <h3>Ans:  {questions[19].answer}</h3>
+  <h2>Qu 21: {questions[20].text}</h2>
+  <h3>Ans:  {questions[20].answer}</h3> */}
